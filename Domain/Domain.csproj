@@ -9,10 +9,12 @@
   <ItemGroup>
     <None Remove="Person\" />
     <None Remove="Phone\" />
+    <None Remove="PhoneType\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Person\" />
     <Folder Include="Phone\" />
+    <Folder Include="PhoneType\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.1" />
