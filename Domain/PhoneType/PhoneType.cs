@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Domain.PhoneType
+namespace Domain.PhoneTypes
 {
     public enum PhoneType
     {
