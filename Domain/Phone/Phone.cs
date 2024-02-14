@@ -1,5 +1,4 @@
-﻿using System;
-namespace Domain.Phone
+﻿namespace Domain.Phone
 {
 	public class Phone
 	{
